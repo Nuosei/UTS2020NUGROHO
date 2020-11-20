@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431553254597",
+    "firebase_url": "https://utsnugroho.firebaseio.com",
+    "project_id": "utsnugroho",
+    "storage_bucket": "utsnugroho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431553254597:android:35c933fc0225c8041a0cac",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500004_nugroho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431553254597-cmga5a1gdjthf36jkcprf0kheab079gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmiFKT3WXSZ45nMFdhMM1hYem1BDvD48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431553254597-cmga5a1gdjthf36jkcprf0kheab079gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
